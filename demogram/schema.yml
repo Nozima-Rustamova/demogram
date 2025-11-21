@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: Demogram API
+  version: 1.0.0
+  description: Demogram is a chat application similar to Discord.
+paths: {}
+components: {}
